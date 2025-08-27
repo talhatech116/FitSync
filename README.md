@@ -30,27 +30,16 @@
 
 ---
 
-### 🔢 Calorie & Nutrition Guidance
+### 🔢👟 Calorie, Nutrition & Step Tracking
 - **Diet Planning:** Offers meal suggestions aligned with user goals and preferences  
 - **Calorie Tracking:** Helps monitor daily intake and balance calories in vs. calories out  
 - **Nutrient Breakdown:** Provides macros (carbs, protein, fat) insights per meal and day  
+- **Step Tracking:** Built-in pedometer tracks daily step count and distance  
+- **Activity Summary:** View trends and averages across days, weeks, and months  
+- **Visual Charts & Reports:** Track progress with charts and weekly reports  
 
 <div align="center">
   <img width="375" height="844" src="https://github.com/user-attachments/assets/cab8f7c3-743d-4438-a3d2-54a57be09373" />
-</div>
-
----
-
-### 👟📈 Step Counter, Movement & Progress Tracking
-- **Step Tracking:** Built-in pedometer tracks daily step count and distance  
-- **Activity Summary:** View trends and averages across days, weeks, and months  
-- **Goal Reminders:** Encourages consistent movement with push notifications and targets  
-- **Visual Charts:** Track progress in weight, muscle mass, and endurance  
-- **Achievements & Milestones:** Celebrate fitness milestones and motivate users to stay consistent  
-- **Weekly Reports:** Summarized view of workout stats, diet adherence, and overall progress  
-
-<div align="center">
-  <img width="360" height="844" src="https://github.com/user-attachments/assets/12345678-aaaa-4444-bbbb-111111111111" />
   <img width="360" height="844" src="https://github.com/user-attachments/assets/e7a1e468-4551-46c1-8703-fc00444ad6ff" />
 </div>
 
